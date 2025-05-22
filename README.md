@@ -20,6 +20,9 @@ Tôi là **Phạm Xuân Hiếu**, một chuyên gia về **AI Automation** và *
 
 * **Fanpage "Cựu SV & Sinh viên Trường Đại Học Sư Phạm Kỹ Thuật Tp.HCM"**: Quản lý và phát triển ([https://fb.com/sv.spkt](https://fb.com/sv.spkt)), một trong những cộng đồng sinh viên lớn với hơn 143K lượt thích và 145K người theo dõi. Dự án thể hiện kinh nghiệm xây dựng và gắn kết cộng đồng trực tuyến từ 2011 đến nay.
     * *Kỹ năng: Social Media Branding, Social Media Analytics, Project Management, Social Media Marketing.*
+ 
+* **HCMUTE Confession**: Đồng sáng lập và quản lý trang HCMUTE Confession ([https://fb.com/ute.confession](https://fb.com/ute.confession)) từ tháng 2/2013 đến tháng 1/2021. Trang đã thu hút 72,000 người theo dõi và lượt thích, trở thành một diễn đàn quan trọng cho sinh viên Trường ĐH Sư phạm Kỹ thuật TP.HCM chia sẻ và kết nối.
+    * *Kỹ năng: Social Media Branding, Team Management, Social Media Analytics, Project Management, Social Media Marketing.*
 
 * **[vsp.xuanhieu.org](https://vsp.xuanhieu.org)**: Chiến dịch tham khảo Marketing Campaign của Vinamilk, áp dụng cho Vietsovpetro, nơi tôi đã có **[ĐIỀN SỐ NĂM CỦA BẠN Ở ĐÂY]** năm làm việc và đóng góp.
 
