@@ -19,7 +19,7 @@ Tôi là **Phạm Xuân Hiếu**, một chuyên gia về **AI Automation** và *
 I build small, tested teaching tools with Codex and keep them open source, so Vietnamese-speaking builders can go from prompt to reviewed, tested code.
 
 * **[Agent Ops Clinic](https://github.com/xuanhieu/agent-ops-clinic)**: a 20-minute bilingual workshop lab built with Codex CLI. Practise acceptance criteria, risky handoffs, spend caps and human approval; 36 Node tests. [Live demo](https://codex.xuanhieu.org/demos/agent-ops-clinic/)
-* **[Codex Learning Path](https://github.com/xuanhieu/codex-learning-path)**: an interactive VI/EN path from first prompt to a reviewed pull request. [Live](https://codex.xuanhieu.org/demos/codex-path/)
+* **[Codex Learning Path](https://github.com/xuanhieu/codex-learning-path)**: an interactive Zero-to-Pro path with 25 bilingual (VI/EN) lessons and guided exercises. [Live](https://codex.xuanhieu.org/demos/codex-path/)
 * **[Codex Ambassador Lab](https://github.com/xuanhieu/codex-ambassador-lab)**: 23 tested teaching demos, each with source. [Portfolio](https://codex.xuanhieu.org/)
 
 ## 📌 Các dự án nổi bật: 
