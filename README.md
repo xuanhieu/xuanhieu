@@ -12,7 +12,15 @@ Tôi là **Phạm Xuân Hiếu**, một chuyên gia về **AI Automation** và *
 
 * Website: [https://xuanhieu.org](https://xuanhieu.org)
 * LinkedIn: [https://linkedin.com/in/xuanhieu](https://linkedin.com/in/xuanhieu)
-* Email: [mail@xuanhieu.org](mail@xuanhieu.org)
+* Email: [mail@xuanhieu.org](mailto:mail@xuanhieu.org)
+
+## 🧪 Codex work (VI/EN)
+
+I build small, tested teaching tools with Codex and keep them open source, so Vietnamese-speaking builders can go from prompt to reviewed, tested code.
+
+* **[Agent Ops Clinic](https://github.com/xuanhieu/agent-ops-clinic)**: a 20-minute bilingual workshop lab built with Codex CLI. Practise acceptance criteria, risky handoffs, spend caps and human approval; 36 Node tests. [Live demo](https://codex.xuanhieu.org/demos/agent-ops-clinic/)
+* **[Codex Learning Path](https://github.com/xuanhieu/codex-learning-path)**: an interactive VI/EN path from first prompt to a reviewed pull request. [Live](https://codex.xuanhieu.org/demos/codex-path/)
+* **[Codex Ambassador Lab](https://github.com/xuanhieu/codex-ambassador-lab)**: 23 tested teaching demos, each with source. [Portfolio](https://codex.xuanhieu.org/)
 
 ## 📌 Các dự án nổi bật: 
 
@@ -24,7 +32,7 @@ Tôi là **Phạm Xuân Hiếu**, một chuyên gia về **AI Automation** và *
 * **HCMUTE Confession**: Đồng sáng lập và quản lý trang HCMUTE Confession ([https://fb.com/ute.confession](https://fb.com/ute.confession)) từ tháng 2/2013 đến tháng 1/2021. Trang đã thu hút 72,000 người theo dõi và lượt thích, trở thành một diễn đàn quan trọng cho sinh viên Trường ĐH Sư phạm Kỹ thuật TP.HCM chia sẻ và kết nối.
     * *Kỹ năng: Social Media Branding, Team Management, Social Media Analytics, Project Management, Social Media Marketing.*
 
-* **[vsp.xuanhieu.org](https://vsp.xuanhieu.org)**: Chiến dịch tham khảo Marketing Campaign của Vinamilk, áp dụng cho Vietsovpetro, nơi tôi đã có **[ĐIỀN SỐ NĂM CỦA BẠN Ở ĐÂY]** năm làm việc và đóng góp.
+* **[vsp.xuanhieu.org](https://vsp.xuanhieu.org)**: Chiến dịch tham khảo Marketing Campaign của Vinamilk, áp dụng cho Vietsovpetro, nơi tôi đã làm việc và đóng góp.
 
 * **[tamsusaigon.com](https://tamsusaigon.com)**: Dự án phát triển nội dung và tối ưu SEO cho website Tâm Sự Sài Gòn. Tập trung vào việc xây dựng nội dung chất lượng thông qua Guest Posts, tối ưu hóa nền tảng WordPress, xây dựng cấu trúc website và chiến lược Link Building hiệu quả.
     * *Kỹ năng: Search Engine Optimization (SEO), WordPress, Social Media Branding, Website Structure, Link Building, Web Content Writing.*
