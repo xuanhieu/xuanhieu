@@ -1,46 +1,46 @@
-# 👋 Chào mừng đến với GitHub của Phạm Xuân Hiếu (xuanhieu.org)!
+# Phạm Xuân Hiếu (Xuân Hiếu)
 
-Tôi là **Phạm Xuân Hiếu**, một chuyên gia về **AI Automation** và **SEO** với gần 10 năm kinh nghiệm trong việc xây dựng và triển khai các giải pháp công nghệ, đồng thời tư vấn chiến lược **Digital Marketing Plan (DM Consultant)**.
+**AI-native Growth Systems Builder** · SEO · AEO · MarTech · Automation
 
-🚀 **Hiện tại tôi đang tập trung vào:**
+Tôi xây hệ thống tăng trưởng, nối SEO, dữ liệu, nội dung và AI thành quy trình chạy được, đo được và chuyển giao được. Tôi là người xây dựng và vận hành [xuanhieu.org](https://xuanhieu.org), nơi tôi viết hướng dẫn, ghi chú triển khai và case study.
 
-* Phát triển các công cụ tự động hóa ứng dụng Trí Tuệ Nhân Tạo (AI).
-* Nghiên cứu và áp dụng các kỹ thuật SEO tiên tiến.
-* Tư vấn và triển khai kế hoạch Digital Marketing toàn diện cho doanh nghiệp.
+*I build growth systems that connect SEO, data, content and AI into workflows you can run, measure and hand over.*
 
-🔗 **Kết nối với tôi:**
+Hồ sơ chính chủ: [Phạm Xuân Hiếu là ai?](https://xuanhieu.org/gioi-thieu/)
 
-* Website: [https://xuanhieu.org](https://xuanhieu.org)
-* LinkedIn: [https://linkedin.com/in/xuanhieu](https://linkedin.com/in/xuanhieu)
-* Email: [mail@xuanhieu.org](mailto:mail@xuanhieu.org)
+## Tôi làm gì / What I work on
 
-## 🧪 Codex work (VI/EN)
+- SEO kỹ thuật, Semantic SEO, Entity SEO và AEO (tối ưu cho công cụ trả lời và trợ lý AI)
+- AI Automation và agent workflow, có bước duyệt của con người và giới hạn chi phí
+- MarTech và marketing automation: dashboard, dữ liệu, quy trình nội dung
+- Công cụ nhỏ chạy trên máy người dùng, không cần tải tệp lên server
 
-I build small, tested teaching tools with Codex and keep them open source, so Vietnamese-speaking builders can go from prompt to reviewed, tested code.
+## Mã nguồn mở / Open source
 
-* **[Agent Ops Clinic](https://github.com/xuanhieu/agent-ops-clinic)**: a 20-minute bilingual workshop lab built with Codex CLI. Practise acceptance criteria, risky handoffs, spend caps and human approval; 36 Node tests. [Live demo](https://codex.xuanhieu.org/demos/agent-ops-clinic/)
-* **[Codex Learning Path](https://github.com/xuanhieu/codex-learning-path)**: an interactive Zero-to-Pro path with 25 bilingual (VI/EN) lessons and guided exercises. [Live](https://codex.xuanhieu.org/demos/codex-path/)
-* **[Codex Ambassador Lab](https://github.com/xuanhieu/codex-ambassador-lab)**: 23 tested teaching demos, each with source. [Portfolio](https://codex.xuanhieu.org/)
+Tôi làm các công cụ dạy học nhỏ, có test, bằng Codex và để mã nguồn mở, để người làm sản phẩm nói tiếng Việt đi được từ prompt tới code đã review và đã test.
 
-## 📌 Các dự án nổi bật: 
+| Dự án | Nội dung | Demo |
+|---|---|---|
+| [Agent Ops Clinic](https://github.com/xuanhieu/agent-ops-clinic) | Lab workshop 20 phút, song ngữ VI/EN, làm bằng Codex CLI: tiêu chí nghiệm thu, bàn giao rủi ro, trần chi phí, bước duyệt của con người. 36 Node test. | [Live demo](https://codex.xuanhieu.org/demos/agent-ops-clinic/) |
+| [Codex Learning Path](https://github.com/xuanhieu/codex-learning-path) | Lộ trình Codex từ Zero tới Pro, 25 bài song ngữ kèm bài tập có hướng dẫn. | [Live](https://codex.xuanhieu.org/demos/codex-path/) |
+| [Codex Ambassador Lab](https://github.com/xuanhieu/codex-ambassador-lab) | 23 demo dạy Codex/ChatGPT đã test, mỗi demo có mã nguồn. | [Portfolio](https://codex.xuanhieu.org/) |
+| [1xQuickConvertFormat](https://github.com/xuanhieu/1xQuickConvertFormat) | Đổi định dạng tệp offline trên Mac: giữ Shift, kéo tệp từ Finder, thả vào định dạng cần đổi. HEIC sang JPG, MOV sang MP4, Word sang PDF, TCVN3/VNI sang Unicode. | [Trang sản phẩm](https://1x.xuanhieu.org/qcf) |
 
-* **[hieufactcheck.com](https://hieufactcheck.com)**: Dự án ứng dụng AI (Bot GPT Creator) để xây dựng công cụ kiểm tra và xác thực thông tin (Fact Checker). Đây là một ví dụ về ứng dụng kỹ năng AI Growth Hacking vào thực tế.
+Các công cụ khác của tôi (đổi định dạng, sửa lỗi font, lưu ảnh) nằm ở [1x.xuanhieu.org](https://1x.xuanhieu.org/).
 
-* **Fanpage "Cựu SV & Sinh viên Trường Đại Học Sư Phạm Kỹ Thuật Tp.HCM"**: Quản lý và phát triển ([https://fb.com/sv.spkt](https://fb.com/sv.spkt)), một trong những cộng đồng sinh viên lớn với hơn 143K lượt thích và 145K người theo dõi. Dự án thể hiện kinh nghiệm xây dựng và gắn kết cộng đồng trực tuyến từ 2011 đến nay.
-    * *Kỹ năng: Social Media Branding, Social Media Analytics, Project Management, Social Media Marketing.*
- 
-* **HCMUTE Confession**: Đồng sáng lập và quản lý trang HCMUTE Confession ([https://fb.com/ute.confession](https://fb.com/ute.confession)) từ tháng 2/2013 đến tháng 1/2021. Trang đã thu hút 72,000 người theo dõi và lượt thích, trở thành một diễn đàn quan trọng cho sinh viên Trường ĐH Sư phạm Kỹ thuật TP.HCM chia sẻ và kết nối.
-    * *Kỹ năng: Social Media Branding, Team Management, Social Media Analytics, Project Management, Social Media Marketing.*
+## Dự án trước đây / Earlier work
 
-* **[vsp.xuanhieu.org](https://vsp.xuanhieu.org)**: Chiến dịch tham khảo Marketing Campaign của Vinamilk, áp dụng cho Vietsovpetro, nơi tôi đã làm việc và đóng góp.
+- **Fanpage Cựu SV & Sinh viên ĐH Sư phạm Kỹ thuật TP.HCM** ([fb.com/sv.spkt](https://www.facebook.com/sv.spkt)): quản lý và phát triển cộng đồng từ 2011.
+- **HCMUTE Confession** ([fb.com/ute.confession](https://www.facebook.com/ute.confession)): đồng sáng lập và quản lý, 2/2013 tới 1/2021.
+- **3D Smart Solutions**: SEO, microsite và landing page cho mảng in, quét và thiết kế 3D, 2014 tới 2018.
+- **Vinhomes Grand Park (cùng ERA Estate Team)**: SEO, link building và nội dung bán hàng cho website dự án, 2016 tới 2018.
+- **[Tâm Sự Sài Gòn](https://tamsusaigon.com)**: nội dung, cấu trúc website WordPress và link building.
 
-* **[tamsusaigon.com](https://tamsusaigon.com)**: Dự án phát triển nội dung và tối ưu SEO cho website Tâm Sự Sài Gòn. Tập trung vào việc xây dựng nội dung chất lượng thông qua Guest Posts, tối ưu hóa nền tảng WordPress, xây dựng cấu trúc website và chiến lược Link Building hiệu quả.
-    * *Kỹ năng: Search Engine Optimization (SEO), WordPress, Social Media Branding, Website Structure, Link Building, Web Content Writing.*
+## Liên hệ / Find me
 
-* **SEO & Phát triển cho 3D Smart Solutions (en.3d-smartsolutions.com)**: Từ Jan 2014 - Jan 2018, tham gia xây dựng nhiều microsite, landing page và thực hiện chiến lược SEO toàn diện cho `en.3d-smartsolutions.com`, góp phần giúp công ty tăng trưởng và khẳng định vị thế trong ngành in 3D tại Việt Nam.
-    * *Kỹ năng: SEO in 3D Industry, 3D Services (Printing, Scanning, Design - Revert-Design), 3D Machines, 3D Products, 3D Materials, 3D Softwares.*
+- Blog và hồ sơ: [xuanhieu.org](https://xuanhieu.org) · [Giới thiệu](https://xuanhieu.org/gioi-thieu/)
+- CV và portfolio: [xuanhieu.io.vn](https://xuanhieu.io.vn/)
+- [LinkedIn](https://www.linkedin.com/in/xuanhieu/) · [YouTube](https://www.youtube.com/@xuanhieu) · [Facebook](https://www.facebook.com/xuanhieu.org) · [X](https://twitter.com/xuanhieuspk) · [Threads](https://www.threads.net/@xuanhieu.vn)
+- Email: [mail@xuanhieu.org](mailto:mail@xuanhieu.org)
 
-* **SEO & Website cho Vinhome Grand Park (ERA Estate Team)**: Từ Jan 2016 - Jan 2018, hợp tác SEO và xây dựng website cho dự án Vinhome Grand Park (Vincity District 9) cùng ERA Estate Team (website chính: `vincityquan9.edu.vn`), tập trung vào tối ưu hóa công cụ tìm kiếm (SEO), xây dựng liên kết (Link Building) và viết nội dung bán hàng (Sales Web Content Writing, SEO Copywriting) để tăng cường hiệu quả kinh doanh.
-    * *Kỹ năng: Search Engine Optimization (SEO), Link Building, SEO Audits, Web Content Writing, SEO Copywriting, Social Media Marketing.*
-
-Cảm ơn bạn đã ghé thăm! Đừng ngần ngại khám phá các repository của tôi và kết nối nếu bạn có cùng mối quan tâm.
+*Research. Build. Measure. Share.*
